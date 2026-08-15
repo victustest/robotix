@@ -49,7 +49,7 @@ export default function AfterSchoolSection({ pickup, schools = [] }) {
               fontWeight: 700,
             }}
           >
-            We'll grab them from school
+            Afterschool Pickup
           </h2>
           <p
             style={{
@@ -60,7 +60,7 @@ export default function AfterSchoolSection({ pickup, schools = [] }) {
               marginBottom: 22,
             }}
           >
-            We pick your child up directly from select schools and help with
+            We'll pick your child up directly from select schools and help with
             homework until you're able to pick them up from us. Check the school
             list to see if your child's school is covered.
           </p>
