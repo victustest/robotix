@@ -32,7 +32,7 @@ export default function App() {
 
       {!loading && !error && (
         <>
-          <ProgramsSection classes={classes} />
+          {/* <ProgramsSection classes={classes} /> */}
           <AfterSchoolSection pickup={pickup} schools={schools} />
         </>
       )}
