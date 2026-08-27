@@ -99,7 +99,7 @@ export default function Hero() {
           >
             <Phone size={17} /> Call or Text Ms V
           </a>
-          <a
+          {/* <a
             href="#programs"
             style={{
               fontFamily: F_BODY,
@@ -117,7 +117,7 @@ export default function Hero() {
             }}
           >
             See all programs <ArrowRight size={16} />
-          </a>
+          </a> */}
         </div>
 
         <div style={{ display: "flex", flexWrap: "wrap", gap: "28px 40px", marginTop: 48 }}>
