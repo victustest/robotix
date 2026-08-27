@@ -65,7 +65,7 @@ export default function Hero() {
           <br />
           <span style={{ color: COLORS.orange }}>Murfreesboro</span>
         </h1>
-
+{/* 
         <p
           style={{
             fontFamily: F_BODY,
@@ -78,7 +78,7 @@ export default function Hero() {
         >
           Small-group STEM classes in robotics, coding, chess, and math &amp; reading —
           built by hand, one working part at a time. Right here in Murfreesboro, TN.
-        </p>
+        </p> */}
 
         <div style={{ display: "flex", flexWrap: "wrap", gap: 12, marginTop: 34 }}>
           <a
